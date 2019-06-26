@@ -4,7 +4,7 @@ class Main1
 		{
 				for(int i=0;i<5;i++)
 				{
-					System.out.println("*");
+					System.out.println("123");
 				}
 			for(int i=1;i<5;i++)
 			{
